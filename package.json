@@ -1,0 +1,26 @@
+{
+  "name": "interview-preparation-board",
+  "version": "1.0.0",
+  "description": "INTERVIEW PREPARATION BOARD - All-In-One Full-Stack Placement Platform",
+  "main": "server/src/index.js",
+  "scripts": {
+    "start": "node server/src/index.js",
+    "build": "npm --prefix server install && npm --prefix client install && npm --prefix client run build",
+    "postinstall": "npm --prefix server install && npm --prefix client install",
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client dev",
+    "dev": "node start.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "interview-preparation",
+    "placement-board",
+    "coding-practice",
+    "ai-mock-interview",
+    "resume-builder"
+  ],
+  "author": "Antigravity Engineering",
+  "license": "MIT"
+}
