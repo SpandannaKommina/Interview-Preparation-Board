@@ -4,6 +4,15 @@ An enterprise-grade, comprehensive full-stack web application designed for engin
 
 ---
 
+## 🌐 Live Deployments & Instant Preview
+
+- **Live Public HTTPS URL**: [https://administration-gained-bucks-also.trycloudflare.com](https://administration-gained-bucks-also.trycloudflare.com)
+- **GitHub Pages Frontend Preview**: [https://spandannakommina.github.io/Interview-Preparation-Board/](https://spandannakommina.github.io/Interview-Preparation-Board/)
+- **1-Click Render Full-Stack Deploy**: [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/SpandannaKommina/Interview-Preparation-Board)
+- **1-Click Vercel Deploy**: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSpandannaKommina%2FInterview-Preparation-Board)
+
+---
+
 ## 📑 28 Application Pages Index
 
 The application implements all 28 dedicated pages with active routing, responsive layout, and full functionality:
