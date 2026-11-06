@@ -18,7 +18,7 @@ export default function LoginPage({ setActivePage }) {
 
     try {
       const res = await login({ email, password, rememberMe });
-      if (res.user.role === 'admin') {
+      if (res && res.user && res.user.role === 'admin') {
         setActivePage('admin');
       } else {
         setActivePage('dashboard');
